@@ -105,6 +105,11 @@ header::after {
       margin-bottom: 20px;
   }
 
+  .maps {
+      text-align: center;
+      margin-top: 20px;
+  }
+
   .navbar {
       background-color: #FFF9DC;
       padding: 20px;
@@ -121,6 +126,10 @@ header::after {
 
    .question-mark:hover {
     color: #EAC102;
+}
+
+.request-supplies {
+    background-color: #E7F4FF;
 }
 
   .section {
