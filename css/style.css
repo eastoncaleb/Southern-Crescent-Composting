@@ -109,7 +109,7 @@ header::after {
       text-align: center;
       margin-top: 20px;
       position: relative;
-      padding-bottom: 75%; // This is the aspect ratio
+      padding-bottom: 75%;
       height: 0;
       overflow: hidden;
   }
