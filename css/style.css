@@ -60,6 +60,22 @@ body {
     margin: 0;
 }
 
+.footer {
+    text-align: center;
+    padding: 3%;
+    background-color: #343434;
+    color: #D2D2D2;
+    font-size: 0.8rem;
+}
+
+.footer .row {
+    margin: 10px 0 30px 0;
+}
+
+.footer p {
+    margin: 50px 0 0 0;
+}
+
 h1 {
     font-family: 'Montserrat', sans-serif;
     font-size: 2.5rem;
@@ -153,6 +169,15 @@ header::after {
 
   .section h2 {
       text-align: center;
+  }
+  
+
+  .social-icons {
+      margin: 20px;
+  }
+
+  .social-icons:hover {
+      color: #7AC1FF;
   }
 
   .step {
